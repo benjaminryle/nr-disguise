@@ -1,2 +1,2 @@
-# nodered-diguisemt
+# nr-diguisemt
 A Node-Red controller for Disguise media server using Multitransport Telnet and OSC Transport.
